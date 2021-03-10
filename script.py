@@ -1,7 +1,7 @@
 class script(object):
 
 
-    START_MSG = """ <b>Hi this bot is specially made for Movies Club</b>"""
+    START_MSG = """ <b>Hi, I'm a Movie Search Bot specially made for Movies Club</b>"""
 
 
     HELP_MSG = """<b>No one Gonna help you 🤣😂🤣</b>
